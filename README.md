@@ -4,6 +4,8 @@
 This project provides a comprehensive analysis of **Customer Service Operations** for a call center, leveraging Power BI's powerful data visualization capabilities. The dataset includes critical information such as branches, call purposes, performance metrics, and sales outcomes. The goal is to gain actionable insights to optimize performance, identify trends, and improve customer satisfaction.
 
 ---
+[**Access the Live Project HERE**](https://app.powerbi.com/view?r=eyJrIjoiMzEyMThmNjUtZmZiYy00NTUxLTk1N2UtOTY3ZTkxMjRjODg3IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
+---
 
 ## 📂 Dataset Overview
 The project is based on a dataset with the following columns:
@@ -45,6 +47,10 @@ The project is based on a dataset with the following columns:
 - **Queue Dropdown**: Explore call data across queues (A, B, C, D).
 - **Call Time**: Slice data by specific time slots.
 - **Clear All Button**: Reset filters and slicers to analyze the complete dataset.
+
+---
+
+![Alt text](https://github.com/SachinSavkare/Power-BI-Customer-Service/blob/main/Customer%20Service.JPG)
 
 ---
 
